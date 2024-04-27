@@ -6,6 +6,8 @@ This README would normally document whatever steps are necessary to get your app
 
 Backend for foodverse food delivery website
 
+Frontend for this repo - https://github.com/ro13hit/FoodVerse-Frontend
+
 ### How do I get set up? ###
 
 * Summary of set up
